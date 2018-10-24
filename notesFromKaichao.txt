@@ -1,0 +1,36 @@
+Meeting w/Kaichao
+
+INL SPD always are at 2Hz
+TP 1 and 2
+CEA at 2Hz as well as INL SPDs
+
+TP 3 
+CEA at 4Hz
+TP 4
+CEA at 10Hz
+TP 5 6 7 8
+CEA at 20Hz
+
+Use normalization in TP 4
+
+Legend for SPGD same as TREAT slides
+____
+CEA_SPGD1
+CEA_SPGD2
+INL_SPGD1
+INL_SPGD2
+
+FOR TREAT Specific Data
+
+Generate 6 plots
+2 for MPFD
+4 for SPND (SPGD)
+- handle 1kHz issue, large data size
+
+Use ARCS system to standardize detector schema
+State same time that ARCS is ~600kW, and for ~200kW. Use to base plots for all detectors.
+
+Some detectors have x1000 scaling factor to reduce output during reactor pulse behavior.
+
+Show the use of the scaling factor, putting different peaks together to make predictions on the pulse.
+
